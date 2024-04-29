@@ -1,0 +1,29 @@
+.list-items {
+  background-color: #d4e7d1;
+  margin: 15px;
+  padding: 12px;
+  border-radius: 8px;
+  width: 30%;
+  box-shadow:
+    9px 9px 18px #afafaf,
+    -9px -9px 18px #ffffff;
+}
+
+.heading {
+  font-family: 'sans-serif';
+  font-size: 24px;
+  text-align: start;
+  font-weight: 700;
+}
+
+.email {
+  font-family: 'Inter';
+  font-size: 17px;
+  text-align: start;
+  font-weight: 500;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
